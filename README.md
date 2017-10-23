@@ -1,24 +1,23 @@
 # AppLove
 
+* **Track:** _Common Core_
+* **Curso:** _Creando tu primer sitio web interactivo_
+* **Unidad:** _Maquetado web con HTML & CSS_
+
+***
 Para completar tu web **AppLove** hemos creado este repositorio boilerplate (plantilla inicial) con todos los recursos que necesitas. Esto incluye las imágenes y algunas clases CSS que ya hemos creado para ti :)
 
-## Empieza por realizar un fork y clonar este repositorio
+## Flujo de trabajo: Empieza por realizar un fork y clonar este repositorio
 
-1. Debes realizar un **fork** de este repositorio.
+1. Debes realizar un [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74) de este repositorio
 
-2. Luego deberás **clonar** este repositorio boilerplate, después crear un repositorio remoto en tu cuenta de `GitHub` y vincular tu local con tu remoto. Para esto, sigue los siguientes pasos:
+2. Luego deberás **clonar** tu fork en tu máquina. Recuerda que el comando a usar es `git clone` y su estructura normalmente se ve así:
 
-    1. Crea un repositorio remoto en tu cuenta de `GitHub` con el nombre del ejercicio (tip: recuerda usar "New Repository")
-    2. Obten el URL del repositorio boilerplate haciendo clic en el _botón verde_ "clone or download"
-    3. En tu línea de comandos, clona el repositorio boilerplate y vincúlalo con tu repositorio remoto. Para hacer esto debes usar los comandos `git clone`, `git remote add` y `git push` que se muestran a continuación:
+    ```bash
+    git clone https://github.com/<nombre-de-usuario>/AppLove.git
+    ```
 
-        ```js
-        ~ git clone <URL del repositorio _boilerplate_ de Laboratoria>
-        ~ git remote add origin <URL del repositorio remoto que creaste en tu cuenta de GitHub>
-        ~ git push origin master
-        ```
-
-## Objetivo Final
+## Objetivo
 
 El reto consiste en maquetar la web **AppLove**, este es el resultado final:
 
